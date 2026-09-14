@@ -19,25 +19,6 @@ The website is designed to create a fun and colorful birthday experience with pe
 * **CSS3** – Styling, layout, colors, and animations
 * **Google Fonts** – Custom typography
 
-## 📂 Project Structure
-
-```text
-birthday-web/
-│
-├── index.html
-├── index.css
-├── images/
-│   └── ...
-└── README.md
-```
-
-## 🚀 How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone <your-repository-url>
-```
 
 ### 2. Open the project folder
 
